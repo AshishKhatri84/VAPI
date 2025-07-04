@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1JCHOWEBPpWWoPXHN8FqtEs05IIWBp-xY/view?usp=drive
 Please find the attached documents that were submitted as part of this project:
 
 - ✅ `Final_System_Prompt.docx` – Full production-ready system prompt  
-- ✅ `Prompt_Engineering_Submission_Documentation.pdf` – Includes approach, iterations, and testing analysis
+- ✅ `NurixAI Prompt Engineering Submission Documentation.pdf` – Includes approach, iterations, and testing analysis
 
 ---
 
