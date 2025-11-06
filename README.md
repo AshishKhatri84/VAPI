@@ -34,7 +34,7 @@ https://vapi.ai?demo=true&shareKey=282a8bbe-0885-47bc-ae27-3b4251f9dc94&assistan
 VAPI/
 ├── I-Bot/              # Interview assistant implementation
 ├── Maria/              # Collections assistant implementation
-├── docs/               # Documentation and design notes
+│   ├── docs/           # Documentation and design notes
 └── README.md           # This file
 ```
 
