@@ -1,78 +1,98 @@
-# VAPI
+# VAPI Demo Assistants
 
-Assistant Demo Assistants: I-Bot & Maria
+A collection of production-ready voice AI assistants built with VAPI.ai, showcasing different use cases and conversational AI capabilities.
 
-Overview
+## 🤖 Assistants
 
-VAPI is a demo repository showcasing two assistant agents: I-Bot and Maria. It provides example implementations and resources for building, running, and experimenting with conversational assistants (chatbots) and related integration code.
+### I-Bot - AI Voice Interview Agent
+A conversational AI that conducts natural interviews on my behalf, built for the 100x Engineers assessment round. Demonstrates AI that replaces human work through authentic, context-aware dialogue.
 
-Features
+https://vapi.ai?demo=true&shareKey=282a8bbe-0885-47bc-ae27-3b4251f9dc94&assistantId=24cd2435-d44d-4d49-b00f-8b48e4544a0d
 
-- Two demo assistants: I-Bot and Maria
-- Example conversational flows and agent behavior
-- Guidance for setup and local development
+### Maria - Secure Voice Collections Agent
+An empathetic collections assistant that handles overdue payments with identity verification, built as part of a Prompt Engineering Internship for NurixAI. Demonstrates secure, compliant voice AI for sensitive financial conversations.
 
-Repository structure (suggested)
+https://vapi.ai?demo=true&shareKey=282a8bbe-0885-47bc-ae27-3b4251f9dc94&assistantId=e2754909-681b-4f04-9cba-d135bd6481a3
 
-- /ibot - Source and configuration for I-Bot assistant
-- /maria - Source and configuration for Maria assistant
-- /docs - Documentation and design notes
-- /examples - Example scripts and usage samples
-- README.md - This file
+## 🎯 What This Repository Demonstrates
 
-Getting started
+- **Production-ready voice AI**: Click-and-talk demos with zero setup
+- **Natural conversation design**: Context-aware, adaptive dialogue
+- **Edge case engineering**: Handling real-world scenarios and edge cases
+- **Domain expertise**: From interviews to financial collections
+- **Prompt engineering excellence**: Crafting effective system prompts
 
-Prerequisites
+## 🛠️ Tech Stack
 
-- Node.js (14+), Python 3.8+ or other runtime depending on assistant implementations
-- Git
+- **Platform**: [VAPI.ai](https://vapi.ai)
+- **LLM**: GPT-4o Mini
+- **STT**: Deepgram
+- **TTS**: ElevenLabs
 
-Install
+## 📁 Repository Structure
+```
+VAPI/
+├── I-Bot/              # Interview assistant implementation
+├── Maria/              # Collections assistant implementation
+├── docs/               # Documentation and design notes
+└── README.md           # This file
+```
 
-1. Clone the repository:
+## 🚀 Getting Started
 
-   git clone https://github.com/AshishKhatri84/VAPI.git
-   cd VAPI
+Each assistant includes:
+- Live demo link (zero setup required)
+- System prompt documentation
+- Implementation approach and testing methodology
+- Demo recordings and walkthrough videos
 
-2. Explore the folders for each assistant implementation (ibot and maria) and follow their local setup instructions. Each assistant may include a package.json, requirements.txt, or a README with details.
+Visit the individual assistant folders for detailed documentation.
 
-Usage
+## 💡 Key Features Across Assistants
 
-- To run an assistant locally, open the respective subfolder (for example `ibot`) and follow the run instructions there. Typical patterns:
+- ✅ **Natural conversations**: Real dialogue, not robotic Q&A
+- ✅ **Context awareness**: Maintains conversation memory and flow
+- ✅ **Adaptive engagement**: Adjusts tone based on conversation type
+- ✅ **Edge case handling**: Robust responses to unexpected inputs
+- ✅ **Production-grade**: Built with 100% logic coverage mindset
 
-  - For Node.js projects:
+## 📊 Use Cases
 
-    npm install
-    npm start
+- **I-Bot**: Recruitment screening, interview automation, personal representation
+- **Maria**: Payment collections, financial conversations, identity verification
+  
+## 🏗️ Development Philosophy
 
-  - For Python projects:
+These assistants embody a core principle: **AI should replace human work, not just assist it.**
 
-    python -m venv .venv
-    source .venv/bin/activate  # or .\venv\Scripts\activate on Windows
-    pip install -r requirements.txt
-    python main.py
+Built with:
+- Production-grade methodology
+- Comprehensive edge case engineering
+- Natural conversation over scripted responses
+- Real-world testing and iteration
 
-Development
+## 🤝 Contributing
 
-- Add new conversation flows and tests under the `examples` or assistant-specific folders.
-- Keep configuration and secrets out of the repository. Use environment variables or a `.env` file (gitignored).
-- Write unit and integration tests for critical logic.
+This is a portfolio project showcasing voice AI capabilities. Feedback and suggestions are welcome!
 
-Contributing
+To contribute:
+1. Fork the repository
+2. Create a feature branch
+3. Document your changes thoroughly
+4. Submit a pull request
 
-Contributions are welcome. Please open issues for bugs or feature requests and submit pull requests for enhancements. When contributing:
+## 📧 Contact
 
-- Fork the repository
-- Create a feature branch
-- Add tests and documentation for your changes
-- Open a pull request describing your changes
+**Ashish Khatri**  
+AI Engineer | B.Tech CSE (AI & ML)  
+Building AI that replaces human work.
 
-License
+[LinkedIn](https://www.linkedin.com/in/ashish-khatri-7a64b8331/) | [GitHub](https://github.com/AshishKhatri84)
 
-This repository currently has no license file. Add a LICENSE file if you want to set one (for example, MIT License).
+## 📝 License
 
-Contact
+This is a demonstration project showcasing AI voice agent capabilities.
 
-Owner: @AshishKhatri84
+---
 
-If you want this README customized with project-specific run commands, architecture diagrams, or example code snippets for I-Bot and Maria, tell me what language/framework each assistant uses and I will update the README.
+*Each assistant in this repository represents a different approach to conversational AI—from personal representation to financial operations—demonstrating versatility in voice AI engineering.*
