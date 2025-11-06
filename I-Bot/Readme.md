@@ -6,7 +6,7 @@ A conversational AI voice agent built for the 100x Engineers assessment round th
 
 ## 🚀 Live Demo
 
-**[Talk to the Bot](https://vapi.ai?demo=true&shareKey=282a8bbe-0885-47bc-ae27-3b4251f9dc94&assistantId=24cd2435-d44d-4d49-b00f-8b48e4544a0d)**
+**[Talk to the Bot](https://vapi.ai/?demo=true&shareKey=282a8bbe-0885-47bc-ae27-3b4251f9dc94&assistantId=24cd2435-d44d-4d49-b00f-8b48e4544a0d)**
 
 ### How to Use
 
@@ -80,8 +80,9 @@ Unlike scripted chatbots, this voice agent:
 AI Engineer | B.Tech CSE (AI & ML)  
 Building AI that replaces human work.
 
-[LinkedIn](https://www.linkedin.com/in/ashishkhatri-ai/) | [GitHub](https://github.com/ashishkhatri-ai)
+[LinkedIn](https://www.linkedin.com/in/ashish-khatri-7a64b8331/) | [GitHub](https://github.com/AshishKhatri84)
 
 ---
 
 *I-Bot represents me in conversations—built for 100x Engineers to showcase the capability to engineer AI systems that genuinely replace human interactions.*
+
