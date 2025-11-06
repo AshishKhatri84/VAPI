@@ -5,8 +5,8 @@ A conversational AI voice agent built for the 100x Engineers assessment round th
 **Talk to me through AI:** This bot conducts natural interviews as if you're speaking directly with me, adapting to both structured questions and casual conversation.
 
 ## 🚀 Live Demo
-
-**[Talk to the Bot](https://vapi.ai/?demo=true&shareKey=282a8bbe-0885-47bc-ae27-3b4251f9dc94&assistantId=24cd2435-d44d-4d49-b00f-8b48e4544a0d)**
+🔗 **Assistant Demo Link (Live in VAPI)**  
+https://vapi.ai/?demo=true&shareKey=282a8bbe-0885-47bc-ae27-3b4251f9dc94&assistantId=24cd2435-d44d-4d49-b00f-8b48e4544a0d
 
 ### How to Use
 
@@ -85,4 +85,5 @@ Building AI that replaces human work.
 ---
 
 *I-Bot represents me in conversations—built for 100x Engineers to showcase the capability to engineer AI systems that genuinely replace human interactions.*
+
 
